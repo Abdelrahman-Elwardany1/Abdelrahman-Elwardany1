@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Abdelrahman Elwardany 👋:heart: </h2>
 
-<iframe src="https://giphy.com/embed/L0gMC6eeMoDJL0RdRL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funimation-vanitas-no-carte-the-case-study-of-karte-L0gMC6eeMoDJL0RdRL">via GIPHY</a></p>
+ <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  
 -I am Abdelrahman Elwardany, an adept Android Developer and recent graduate from Computers and Informatics College, Suez Canal University, with an anticipated graduation year of 2023. With a profound command of Kotlin, I specialize in crafting user-centric mobile applications for the Android platform. My proficiency encompasses Android Studio, underpinned by a robust understanding of computer science fundamentals, data structures, design patterns, and algorithmic concepts.
 
