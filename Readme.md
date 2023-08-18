@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Abdelrahman Elwardany 👋:heart: </h2>
 
-![](https://i.pinimg.com/originals/6f/7b/11/6f7b11b93c9c883b64c1701d650db144.gif)
+<img align='right' src="https://64.media.tumblr.com/a1c8d0ad208b4fb16fe4b7c49d168c09/dfd24dae50d703aa-66/s540x810/8d82eb8c3e3b7379e86e58708b8698d3531b3d6b.gif" style="width:250px;border-radius:50%;">
  
 -I am Abdelrahman Elwardany, an adept Android Developer and recent graduate from Computers and Informatics College, Suez Canal University, with an anticipated graduation year of 2023. With a profound command of Kotlin, I specialize in crafting user-centric mobile applications for the Android platform. My proficiency encompasses Android Studio, underpinned by a robust understanding of computer science fundamentals, data structures, design patterns, and algorithmic concepts.
 
