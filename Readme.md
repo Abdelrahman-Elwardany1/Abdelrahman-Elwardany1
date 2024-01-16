@@ -11,8 +11,6 @@ I am eager to embrace new opportunities where I can contribute my expertise to a
 
 <h2> Contact with me on </h2>
 
-<h3>Where to find me</h3>
-
 - personal email : abdelrahmanelwardany1@gmail.com
 - linkedIn : https://www.linkedin.com/in/abdelrahman-elwardany-77b70b245/
 <hr>
