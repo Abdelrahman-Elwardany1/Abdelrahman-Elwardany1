@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Abdelrahman Elwardany 👋:heart: </h2>
+<h2> Hi there, I'm Abdelrahman Elwardany </h2>
 
 <img align='right' src="https://64.media.tumblr.com/a1c8d0ad208b4fb16fe4b7c49d168c09/dfd24dae50d703aa-66/s540x810/8d82eb8c3e3b7379e86e58708b8698d3531b3d6b.gif" style="width:250px;border-radius:50%;">
  
